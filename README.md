@@ -90,19 +90,6 @@ The system leverages:
 - Python 3.11+ for Lambda functions
 - AWS CLI configured
 
-### Development Setup
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/vyapariai.git
-cd vyapariai
-
-# Install dependencies (when implementation begins)
-npm install
-
-# Deploy infrastructure (when implementation begins)
-sam build
-sam deploy --guided
-```
 
 ## Project Status
 
@@ -118,9 +105,6 @@ sam deploy --guided
 
 This project is currently in the design phase. Implementation contributions will be welcomed once the development phase begins.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
